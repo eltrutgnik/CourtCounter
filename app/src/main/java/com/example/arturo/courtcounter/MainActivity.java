@@ -11,6 +11,8 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     int scoreTeamA = 0;
     int scoreTeamB = 0;
+    //something
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
